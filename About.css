@@ -1,0 +1,29 @@
+.navbuttons {
+	margin:0.75rem;
+	padding:5px 15px;
+	font-size:1rem;
+}
+
+.btn-outline-success{
+	padding:8px 20px;
+}
+
+#main {
+	
+}
+
+p {
+	font-size: 1.5rem;
+}
+
+.backgroundh1 {
+	font-weight: 800;
+}
+
+body {
+	background: linear-gradient(to right, rgb(159,197,232) , rgb(20,63,235)); /* Standard syntax */
+}
+
+.videolink {
+	width:1rem;
+}

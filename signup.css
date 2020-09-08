@@ -1,0 +1,29 @@
+.signupbutton {
+	padding: 1rem 2rem;
+	border-radius: 30px;
+}
+
+.btn-dark {
+	background-color: black;
+	border-color: white;
+	border: 3px solid white;
+}
+
+.btn-dark:hover {
+	background-color: #79ACB8;
+	border-color: white;
+	border-width:2px;
+}
+
+#main {
+	margin-left:0px;
+}
+
+ol {
+	font-size:1.7rem;
+}
+
+body {
+	font-family: Grandstander-Black;
+	background: linear-gradient(to right, rgb(159,197,232) , rgb(20,63,235));
+}
